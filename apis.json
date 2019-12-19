@@ -1,0 +1,75 @@
+{
+    "name": "QuickBlox",
+    "description": "Quickblox ready-to-go modules add new functionality such as video calling, instant messaging and push notifications - all while reducing development time &",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/quickblox-logo.png",
+    "tags": [
+        "api united kingdom",
+        "chats",
+        "have api",
+        "networks",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/quickblox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "QuickBlox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/quickblox-logo.png",
+            "humanURL": "http:\/\/quickblox.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quickblox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/quickblox.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/QuickbloxBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/quickblox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/quickblox"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@quickblox.com"
+        },
+        {
+            "type": "Email",
+            "url": "assist@quickblox.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@QuickBlox.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/QuickBlox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/QuickBlox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/quickblox.com\/"
+        }
+    ]
+}
